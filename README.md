@@ -1,5 +1,6 @@
 ### Bonjour et Bienvenue sur mon Git-Hub ! :smile: 
 ### Actuellement en formation Développeur Web avec Talis Buisness School
+### Je m'appelle Théo et j'ai 22 ans
 ### Et auto-didacte depuis un petit moment ( Spécial mention au Site Du Zéro ) :mortar_board: 
 ### Je vais mettre mon Git-Hub à jour en ajoutant mes différents projets, incluant les projets d'apprentissage
 ### Si vous avez la moindre question ou suggestion, ça sera avec plaisir, venez échanger ! :speech_balloon:
