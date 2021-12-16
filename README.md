@@ -1,4 +1,4 @@
-### Bonjour et Bienvenue sur mon Git-Hub
+### Bonjour et Bienvenue sur mon Git-Hub !
 ### Actuellement en formation Développeur Web avec Talis Buisness School
 ### Et auto-didacte depuis un petit moment ( Spécial mention au Site Du Zéro )
 ### Je vais mettre mon Git-Hub à jour en ajoutant mes différents projets, incluant les projets d'apprentissage
